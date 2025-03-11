@@ -1,3 +1,4 @@
-# GabrielDziecinny
+# Hello! My name is Gabriel Dziecinny
 
-Hellow world
+Wellcome my github profile 
+😀 I'm very happy
