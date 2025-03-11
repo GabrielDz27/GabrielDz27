@@ -2,7 +2,8 @@
 
 Wellcome my github profile 
 <p>😀 I'm very happy</p>
-<div href='https://github.com/GabrielDz27' style='flex-direction: row-reverse'>
+<br>
+<div href='https://github.com/GabrielDz27' style="flex-direction: row-reverse">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=GabrielDz27&show_icons=true&theme=dark"
@@ -20,8 +21,10 @@ Wellcome my github profile
 </div>
 
 ##
+<br>
 
-<div>
+#### 🧑‍💼 My proficiencies
+<div style="display: inline_block">
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />     
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -29,7 +32,6 @@ Wellcome my github profile
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-
 </div>
 
 ##
