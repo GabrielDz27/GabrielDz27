@@ -18,6 +18,9 @@ Wellcome my github profile
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDz27\&layout=donut-vertical)](https://github.com/GabrielDz27/github-readme-stats)
 
 </div>
+
+##
+
 <div>
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />     
