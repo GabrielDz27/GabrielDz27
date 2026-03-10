@@ -1,25 +1,22 @@
-# Hello! My name is Gabriel Dziecinny
+# Olá, eu sou o Gabriel Ferreira! 👋
 
-Wellcome my github profile 
-<p>😀 I'm very happy</p>
-<br>
-<div href='https://github.com/GabrielDz27' style="flex-direction: row-reverse">
+### Sobre mim
+Sou alegre
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDz27\&layout=donut-vertical)](https://github.com/GabrielDz27/github-readme-stats)
+- 🔭 Atualmente estou trabalhando em **Senior**
+- 🌱 Estudo com foco em **SpringBoot** e **Angular**
+- 💬 Pergunte-me sobre **Java**
+- 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/gabriel-dziecinny)
 
-</div>
+---
 
-##
+### 📊 Estatísticas do GitHub
 
+| Stats | Linguagens mais usadas |
+| :---: | :---: |
+| ![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=GabrielDz27&show_icons=true&theme=tokyonight) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDz27&layout=compact&theme=tokyonight) |
 
-#### 🧑‍💼 My proficiencies
-<div style="display: inline_block">
-  <img  width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />    
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />      
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-  <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />        
-</div>
+---
 
+### 🤝 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dziecinny)
