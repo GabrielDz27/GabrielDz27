@@ -12,10 +12,8 @@
 
 ### ✫・ Estatísticas 
 
-
-<p style="display: flex; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=GabrielDz27&theme=transparent&hide_border=true&border_radius=5&order=3" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDz27&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" height="160" alt="stats graph" />
 </p>
 
 ---
@@ -33,9 +31,9 @@
   <kbd>
     <kbd>Front-end</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" />
   </kbd>
 
   <kbd>
@@ -78,14 +76,13 @@
         <summary><b>Sonora</b></summary>
         <br>
         <p>Projeto Fullstack utilizando as tecnologias com as quais trabalho no meu dia a dia corporativo.</p>
-        
+  
   🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/sonora)<br>
-    
-  <p>
-          <img src="https://img.shields.io/badge/Java-949ba4?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-          <img src="https://img.shields.io/badge/Spring--Boot-949ba4?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-          <img src="https://img.shields.io/badge/TypeScript-949ba4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-          <img src="https://img.shields.io/badge/Angular-949ba4?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+          <img src="https://img.shields.io/badge/Spring--Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
         </p>
       </details>
     </td>
@@ -93,14 +90,13 @@
   <tr>
     <td width="60%">
       <details open>
-        <summary><b>Cobol </b></summary>
+        <summary><b>Cobol</b></summary>
         <br>
         <p>COBOL por pura curiosidade e desafio próprio.</p>
-    
+  
   🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/cobol)<br>
-      
-  <p>
-          <img src="https://img.shields.io/badge/COBOL-949ba4?style=for-the-badge&logoColor=white" alt="COBOL">
+        <p>
+          <img src="https://img.shields.io/badge/COBOL-005C97?style=for-the-badge&logo=micro-focus&logoColor=white" alt="COBOL">
         </p>
       </details>
     </td>
@@ -111,13 +107,12 @@
         <summary><b>Database Scripts 🗄️</b></summary>
         <br>
         <p>Meu laboratório de banco de dados. Um histórico onde guardo e organizo todos os scripts, estruturas e queries que aprendi.</p>
-        
-  🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/database-scripts)<br>
   
-  <p>
-          <img src="https://img.shields.io/badge/SQL-949ba4?style=for-the-badge&logoColor=white" alt="SQL">
-          <img src="https://img.shields.io/badge/Oracle-949ba4?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-          <img src="https://img.shields.io/badge/PostgreSQL-949ba4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/database-scripts)<br>
+        <p>
+          <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL">
+          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
         </p>
       </details>
     </td>
@@ -125,14 +120,13 @@
   <tr>
     <td width="60%">
       <details open>
-        <summary><b>Challenge Premiersoft </b></summary>
+        <summary><b>Challenge Premiersoft</b></summary>
         <br>
         <p>Desafio técnico de desenvolvimento construído em parceria.</p>
         
   🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/ChallengePremiersoft)<br>
-        
-  <p>
-          <img src="https://img.shields.io/badge/Java-949ba4?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
         </p>
       </details>
     </td>
@@ -140,13 +134,13 @@
   <tr>
     <td width="60%">
       <details open>
-        <summary><b>Minha Biblioteca </b></summary>
+        <summary><b>Minha Biblioteca</b></summary>
         <br>
         <p>Projeto acadêmico focado em gerenciamento, desenvolvido em conjunto durante a faculdade.</p>
-  
+        
   🌍 [***Acessar Repositório***](https://github.com/rafinha-as-br/Minha_Biblioteca)<br>
         <p>
-          <img src="https://img.shields.io/badge/Java-949ba4?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
         </p>
       </details>
     </td>
@@ -155,7 +149,7 @@
 
 ---
 
-### ✫・ Curiosidades Rápidas 
+### <b>✫・ Curiosidades Rápidas</b>
 
 >  **Uso Linux:** Adoro o ecossistema e uso no dia a dia, mas se me pedir para compilar o Kernel de cabeça ou explicar a gerência de memória em baixo nível... a gente fala sobre o gremio e foca no C do algoritmo kkkkk.
 > 
@@ -163,7 +157,7 @@
 
 ---
 
-### ✫・ Contatos & Redes Sociais
+### ✫・ Redes Sociais
 
 <p align="center">
   <a href="https://linkedin.com/in/gabriel-dziecinny" target="_blank">
