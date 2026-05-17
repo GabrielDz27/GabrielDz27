@@ -12,9 +12,10 @@
 
 ### ✫・ Estatísticas 
 
+
 <p style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=GabrielDz27&theme=transparent&hide_border=true&border_radius=5&order=3" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDz27&hide_title=true&hide_rank=false&show_icons=true&theme=transparent&hide_border=true&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDz27&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" height="160" alt="stats graph" />
 </p>
 
 ---
@@ -77,8 +78,10 @@
         <summary><b>Sonora</b></summary>
         <br>
         <p>Projeto Fullstack utilizando as tecnologias com as quais trabalho no meu dia a dia corporativo.</p>
-        🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/sonora)<br>
-        <p>
+        
+  🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/sonora)<br>
+    
+  <p>
           <img src="https://img.shields.io/badge/Java-949ba4?style=for-the-badge&logo=java&logoColor=white" alt="Java">
           <img src="https://img.shields.io/badge/Spring--Boot-949ba4?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
           <img src="https://img.shields.io/badge/TypeScript-949ba4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -93,8 +96,10 @@
         <summary><b>Cobol </b></summary>
         <br>
         <p>COBOL por pura curiosidade e desafio próprio.</p>
-        🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/cobol)<br>
-        <p>
+    
+  🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/cobol)<br>
+      
+  <p>
           <img src="https://img.shields.io/badge/COBOL-949ba4?style=for-the-badge&logoColor=white" alt="COBOL">
         </p>
       </details>
@@ -106,8 +111,10 @@
         <summary><b>Database Scripts 🗄️</b></summary>
         <br>
         <p>Meu laboratório de banco de dados. Um histórico onde guardo e organizo todos os scripts, estruturas e queries que aprendi.</p>
-        🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/database-scripts)<br>
-        <p>
+        
+  🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/database-scripts)<br>
+  
+  <p>
           <img src="https://img.shields.io/badge/SQL-949ba4?style=for-the-badge&logoColor=white" alt="SQL">
           <img src="https://img.shields.io/badge/Oracle-949ba4?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
           <img src="https://img.shields.io/badge/PostgreSQL-949ba4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -121,8 +128,10 @@
         <summary><b>Challenge Premiersoft </b></summary>
         <br>
         <p>Desafio técnico de desenvolvimento construído em parceria.</p>
-        🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/ChallengePremiersoft)<br>
-        <p>
+        
+  🌍 [***Acessar Repositório***](https://github.com/GabrielDz27/ChallengePremiersoft)<br>
+        
+  <p>
           <img src="https://img.shields.io/badge/Java-949ba4?style=for-the-badge&logo=java&logoColor=white" alt="Java">
         </p>
       </details>
@@ -134,7 +143,8 @@
         <summary><b>Minha Biblioteca </b></summary>
         <br>
         <p>Projeto acadêmico focado em gerenciamento, desenvolvido em conjunto durante a faculdade.</p>
-        🌍 [***Acessar Repositório***](https://github.com/rafinha-as-br/Minha_Biblioteca)<br>
+  
+  🌍 [***Acessar Repositório***](https://github.com/rafinha-as-br/Minha_Biblioteca)<br>
         <p>
           <img src="https://img.shields.io/badge/Java-949ba4?style=for-the-badge&logo=java&logoColor=white" alt="Java">
         </p>
